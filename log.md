@@ -22,3 +22,21 @@
 
 **Link to work:** https://learn.freecodecamp.org/responsive-web-design/applied-visual-design ,
                   https://learn.freecodecamp.org/responsive-web-design/applied-accessibility  
+
+### Day 4: June 17, 2019
+
+**Today's Progress**:  Day 4 of #100daysofcode, I finished the section flexbox and grid and I start the tribute page project, I have a better understanding of how css grid / flexbox works to simplify life.
+
+**Thoughts:** I have a better understanding about Flex box and Grid, and this review allow me to be able make new things more easy.
+
+**Link to work:** https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles ,
+                  https://learn.freecodecamp.org/responsive-web-design/css-flexbox ,
+                  https://learn.freecodecamp.org/responsive-web-design/css-grid
+
+
+### Day 5: June 18, 2019
+
+**Today's Progress**:  Day 5 of #100daysofcode , today i coding litle bit in Javascript and Sass, i made a event for close a section, i use it arrow function,  method of DOM (document.getElementsByClassNAme) & loop.
+
+**Thoughts:** I have a better understanding about Javascript Dom for the logicial to make what i want, i feel i begin more  comfortable with the problem.
+**Link to work:** (This project can not be show now.)
